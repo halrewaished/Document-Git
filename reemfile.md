@@ -2,6 +2,10 @@
 #### with files :
 
 
+<img width="598" alt="Screen Shot 1444-03-20 at 11 55 03 AM" src="https://user-images.githubusercontent.com/47796658/196121662-cdbcd268-964f-4703-b332-f4b2856b8312.png">
+
+
+
 1 -  In working tree ' our folder ' we write **git init** command to create **.git** 
 file.
 Which contains all of the necessary Git metadata for the new repository. This metadata 
