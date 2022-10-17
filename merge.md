@@ -8,6 +8,7 @@ creating an extra merge commit.
 a main branch with 3 commits.
 
 
+<img width="442" alt="Screen Shot 1444-03-20 at 1 07 50 PM" src="https://user-images.githubusercontent.com/103157455/196116322-b93e04d7-f66a-4e85-8514-374f0c28ad19.png">
 
 
 
@@ -22,6 +23,7 @@ to the same commit
 
     $ git branch New_Branch
 	
+<img width="604" alt="Screen Shot 1444-03-20 at 2 06 48 PM" src="https://user-images.githubusercontent.com/103157455/196116631-28be4559-2017-4a23-b4cd-17c3625542d2.png">
 	
 
 
@@ -43,12 +45,10 @@ feature to main.
 
 
 
+<img width="659" alt="New Branch" src="https://user-images.githubusercontent.com/103157455/196116994-28295d9f-91f9-4bee-a94f-653c5319f80c.png">
 
 
 
-
-switch to the feature branch and do a couple of commits, then bring the 
-changes to the main branch. There is a linear path from feature to main.
 
 
 
@@ -56,6 +56,14 @@ changes to the main branch. There is a linear path from feature to main.
 In order to merge the changes to the main branch, all git has to do is to 
 change the pointer of main forward. This is what we call fast-forward 
 merge.
+
+
+
+<img width="648" alt="forward" src="https://user-images.githubusercontent.com/103157455/196117617-e21be25d-e398-40df-906b-8d2e1cb07241.png">
+
+
+
+
 
 
 
